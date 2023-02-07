@@ -1,0 +1,4 @@
+ShareCost, version 1.0
+Share costs with your friends with ease!
+
+Program by W. Poniewierka.

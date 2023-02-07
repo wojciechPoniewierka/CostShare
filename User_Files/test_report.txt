@@ -1,0 +1,14 @@
+REPORT FOR test.csv
+
+Participants:
+Paulina, Janek, Paul, Maria
+
+Money spent in subevents:
+restauracja: 250.0
+kolacja: 159.0
+œniadanie: 342.0
+
+Transactions to make:
+Paul -> Paulina: 108.0
+Paul -> Janek: 10.0
+Maria -> Paulina: 128.0
